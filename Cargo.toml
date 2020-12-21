@@ -1,6 +1,6 @@
 [package]
 name = "radoscript"
-version = "0.1.2"
+version = "0.1.3"
 license = "MIT"
 description = "radoscript interpreter in rust"
 authors = ["szdytom <szdytom@163.com>"]
